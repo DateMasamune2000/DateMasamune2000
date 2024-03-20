@@ -23,7 +23,8 @@ I am a university student who likes machines.
 - I have a [github.io blog](datemasamune2000.github.io). It is mostly shitposting but I do my best to make it informative and helpful in my tutorials.
 
 # Before you ask
-- I don't do trading. This includes both securities and cryptocurrency.
-- Niether my Windows VM nor my Linux host has a virus.
-- My only opinion on LLMs in general is that I don't use them in my work because I believe words should be deliberate and purposeful. I don't particularly hate them but I don't want to be forced to use one.
-- I am neither knowledgeable of nor interested in current events in geopolitics, unless they directly impact me and my work.
+- No I will not buy your \<insert meme name here\>coin.
+- Niether my Windows VM nor my Linux host has a virus. You are not Microsoft or whatever and you cannot fix my computer.
+- There is no Nigerian prince (or even Nigerian) anywhere in my family tree (yes this is true). I inherit not a dollar of any of their fortunes.
+- I-It's not like I like anime or anything, i-idiot!! (proceeds to look for black Les Paul Customs in the trash to load into the AE86 I don't have)
+- No I don't get my tech advice from `/g/`. If I did I'd be using Rust.
