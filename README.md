@@ -11,9 +11,9 @@ I like computers
 
 # Setup
 - Arch refugee currently running Debian 12 on an AMD64 system because I don't like gigabytes of updates every week. I'd be using Slackware if it supported UEFI better.
-- Mate desktop (things seem to work well with it)
+- i3 (things seem to work well with it)
 - `bash` shell with `vi` keybinds and GNU coreutils
-- `vim` (not `neovim`) and occasionally `emacs` (with `vi` keybinds) for anything that requires an IDE.
+- `neovim` and occasionally `emacs` (with `vi` keybinds) for anything that requires an IDE.
 
 # Blog
 - I have a [github.io blog](datemasamune2000.github.io). It does not have any posts as of now
