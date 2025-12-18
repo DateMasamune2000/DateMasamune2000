@@ -12,6 +12,3 @@ Computer engineering student
 - `bash` shell with `vi` keybinds
 - GNU coreutils
 - Custom minimal build of `vim` without plugins
-
-# Blog
-- I have a [github.io blog](datemasamune2000.github.io). It does not have any posts as of now
