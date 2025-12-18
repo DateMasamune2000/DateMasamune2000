@@ -2,25 +2,15 @@
 Computer engineering student
 
 # Current interests
-- System administration
+- C programming
+- Assembly programming
 - Web development
-- Lower-level programming
-- Containers
-
-# Setup
-
-## Hardware
-- ThinkCentre m430
-- 4GB RAM
-- 128GB SSD + 1TB USB HDD
-- 1920x1080 IPS monitor
-- Keychron keyboard with MX red switches (idk whether they're Cherries or clones)
-- Generic mouse from obscure brand
 
 ## Software
-- Currently on Artix Linux
+- Currently on Void Linux
 - i3 (I have been on this forever and have no intention of switching whatsoever)
-- `bash` shell with `vi` keybinds and GNU coreutils
+- `bash` shell with `vi` keybinds
+- GNU coreutils
 - Custom minimal build of `vim` without plugins
 
 # Blog
