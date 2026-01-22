@@ -1,6 +1,6 @@
 # Varun Girimaji
 
-Fresh graduate focusing on *systems programming* and *networking*.
+Computer Engineering graduate and programming enthusiast
 
 * **Languages:** C, C++, Go, and x86\_64 Assembly
 * **Networking:** TCP, UDP, HTTP/1.1
