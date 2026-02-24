@@ -1,6 +1,6 @@
 Computer Engineering graduate and programming enthusiast
 
-* **Languages:** C, C++, Go, and x86\_64 Assembly
+* **Languages:** C, Python, and Go
 * **Networking:** TCP, UDP, HTTP/1.1
 * **Tools:** GDB, Valgrind, Wireshark
 
@@ -13,7 +13,8 @@ Computer Engineering graduate and programming enthusiast
 * `diostring`: String library that does away with the null terminator in favour of tracking the size.
 
 ## Setup
-* Void Linux (glibc) with i3 on X11 (X.org implementation)
-* `bash` shell with `vi` keybinds
-* GNU coreutils
-* `nvim` with minimal plugins (plus `vi` for small edits)
+* Two laptops:
+  - Void Linux (glibc) with i3 on X11 (X.org implementation)
+  - MacOS Tahoe with Aerospace
+* `bash` shell (and `zsh` on Mac) with `vi` keybinds
+* `nvim` with minimal plugins (plus `vi` for small edits) on both systems
