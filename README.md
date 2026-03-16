@@ -1,9 +1,3 @@
-Computer Engineering graduate and programming enthusiast
-
-* **Languages:** C, Python, and Go
-* **Networking:** TCP, UDP, HTTP/1.1
-* **Tools:** GDB, Valgrind, Wireshark
-
 ## Featured projects
 
 * `irc\_server`: An IRC server that uses **non-blocking I/O** (with `select`) instead of threads for multiplexing.
