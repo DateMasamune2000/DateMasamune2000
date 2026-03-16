@@ -4,7 +4,7 @@
 * `webserver`: Serves local files over HTTP, with *customizable routes*. Uses *read/write* to read files quickly with less overhead.
 * `diofs`: Read-only filesystem using FUSE that supports creating custom directories.
 * `getanime`: Gets a list of upcoming anime using a JSON API, and saves the list into a MariaDB (MySQL) database.
-* `diostring`: String library that does away with the null terminator in favour of tracking the size.
+* `diostring`: String library that does away with the null terminator in favour of tracking string size.
 
 ## My Setup
 * Two laptops:
