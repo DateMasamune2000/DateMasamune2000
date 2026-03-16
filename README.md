@@ -6,7 +6,7 @@
 * `getanime`: Gets a list of upcoming anime using a JSON API, and saves the list into a MariaDB (MySQL) database.
 * `diostring`: String library that does away with the null terminator in favour of tracking the size.
 
-## Setup
+## My Setup
 * Two laptops:
   - Void Linux (glibc) with i3 on X11 (X.org implementation)
   - MacOS Tahoe with Aerospace
